@@ -1,5 +1,5 @@
 # Fish Tank Animation (made with Processing JS)
-Check it out: https://jacob-seiler.github.io/processing-carnival/
+Check it out: https://jacob-seiler.github.io/processing-fish-tank/
 
 Fish tank animated in p5.js
 
